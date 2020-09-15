@@ -707,11 +707,13 @@ a:active {
 
 .site-contact-details,
 .site-contact-details li {
+  color: #222222;
   padding: 0;
   margin: 0;
 }
 
 .site-contact-details li {
+  color: #222222;
   list-style: none;
   margin-bottom: 20px;
 }
@@ -725,28 +727,12 @@ a:active {
 }
 
 .site-footer {
+  background-color: #e69eab;
+  color: #222222;
   padding: 3em 0;
 }
 .site-footer p:last-child {
   margin-bottom: 0;
-}
-.site-footer .social-item {
-  display: inline-block;
-  width: 60px;
-  height: 60px;
-  background: #333;
-  position: relative;
-  border-radius: 50%;
-  font-size: 22px;
-  margin: 0 10px;
-}
-.site-footer .social-item > span {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
 }
 
 .block-47 .block-47-image {
